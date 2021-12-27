@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ps-gh-pages/static/css/main.3a5a4e59.chunk.css",
+    "main.js": "/ps-gh-pages/static/js/main.cb4e3f5f.chunk.js",
+    "main.js.map": "/ps-gh-pages/static/js/main.cb4e3f5f.chunk.js.map",
+    "runtime-main.js": "/ps-gh-pages/static/js/runtime-main.a12bf045.js",
+    "runtime-main.js.map": "/ps-gh-pages/static/js/runtime-main.a12bf045.js.map",
+    "static/js/2.18658efc.chunk.js": "/ps-gh-pages/static/js/2.18658efc.chunk.js",
+    "static/js/2.18658efc.chunk.js.map": "/ps-gh-pages/static/js/2.18658efc.chunk.js.map",
+    "static/js/3.7c0078dd.chunk.js": "/ps-gh-pages/static/js/3.7c0078dd.chunk.js",
+    "static/js/3.7c0078dd.chunk.js.map": "/ps-gh-pages/static/js/3.7c0078dd.chunk.js.map",
+    "index.html": "/ps-gh-pages/index.html",
+    "static/css/main.3a5a4e59.chunk.css.map": "/ps-gh-pages/static/css/main.3a5a4e59.chunk.css.map",
+    "static/js/2.18658efc.chunk.js.LICENSE.txt": "/ps-gh-pages/static/js/2.18658efc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a12bf045.js",
+    "static/js/2.18658efc.chunk.js",
+    "static/css/main.3a5a4e59.chunk.css",
+    "static/js/main.cb4e3f5f.chunk.js"
+  ]
+}
