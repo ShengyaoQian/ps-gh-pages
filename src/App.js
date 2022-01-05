@@ -44,7 +44,7 @@ class App extends React.Component {
       });
       this.setState({ loading: false});
     } catch (err) {
-        window.alert(`PublicSquare contract not deployed to detected network.\n\n${err}`);
+        window.alert(`PublicSquare contract is only deployed on Kovan testnet.\n\n${err}`);
     }
   }
 
